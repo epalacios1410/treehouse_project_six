@@ -1,0 +1,49 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "project_name": "Random Quote Generator",
+      "description": "An app that displays a random quote each time the button is clicked.",
+      "technologies": ["JavaScript", "CSS"],
+      "live_link": "https://epalacios1410.github.io/project_one/",
+      "github_link": "https://github.com/epalacios1410/project_one",
+      "image_urls": ["/static/images/random_one.png", "/static/images/random_two.png", "/static/images/random_three.png"]
+    },
+    {
+      "id": 1,
+      "project_name": "Pagination and Filtering",
+      "description": "Use JavaScript to display list of student names, emails, and addresses ten at a time per page, with links at the bottom of the page allowing user to click through the pages.",
+      "technologies": ["JavaScript", "CSS"],
+      "live_link": "https://epalacios1410.github.io/treehouse_project_two/",
+      "github_link": "https://github.com/epalacios1410/treehouse_project_two",
+      "image_urls": ["/static/images/pagination_one.png", "/static/images/pagination_two.png", "/static/images/pagination_three.png"]
+    },
+    {
+      "id": 2,
+      "project_name": "Interactive Form",
+      "description": "Use JQuery to make a registration form more user friendly by adding customization and conditional behavior and interactivity. Validate user input and dispalying error messages when invalid information is entered.",
+      "technologies": ["JavaScript", "CSS", "JQuery"],
+      "live_link": "https://epalacios1410.github.io/treehouse_project_three/",
+      "github_link": "https://github.com/epalacios1410/treehouse_project_three",
+      "image_urls": ["/static/images/form_one.png", "/static/images/form_two.png", "/static/images/form_three.png"]
+    },
+    {
+      "id": 3,
+      "project_name": "Object Oriented Programming Game Show",
+      "description": "Using JavaScript and Object Oriented Programming display a random hidden phrase which user tries to guess by clicking on letters on a onscreen keyboard.",
+      "technologies": ["JavaScript", "CSS", "JQuery"],
+      "live_link": "https://epalacios1410.github.io/treehouse_project_four/",
+      "github_link": "https://github.com/epalacios1410/treehouse_project_four",
+      "image_urls": ["/static/images/OOP_one.png", "/static/images/OOP_two.png", "/static/images/OOP_three.png"]
+    },
+    {
+      "id": 4,
+      "project_name": "Making Public API Requests",
+      "description": "Make an API request to for data of 12 random 'employees' and display their data, create a widget for each 'employee' on click",
+      "technologies": ["JavaScript", "CSS", "JQuery"],
+      "live_link": "https://epalacios1410.github.io/treehouse_project_five/",
+      "github_link": "https://github.com/epalacios1410/treehouse_project_five",
+      "image_urls": ["/static/images/api_one.png", "/static/images/api_two.png", "/static/images/api_three.png"]
+    }
+    ]
+}
